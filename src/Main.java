@@ -55,7 +55,8 @@ public class Main {
         myIpod.volumeDown();
         myIpod.stopMusic();
 
-        System.out.println("\n------ IPHONE ------");
+        System.out.println("");
+        System.out.println("------ IPHONE ------");
         myIphone.playmusic("SCARLET FIRE");
         myIphone.nextTrack();
         myIphone.previousTrack();
